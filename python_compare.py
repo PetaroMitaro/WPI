@@ -1,7 +1,7 @@
 from __future__ import division
 from xlrd import open_workbook,XL_CELL_TEXT
 
-book = open_workbook('odd.xls')
+book = open_workbook('roomate_data.xls')
 sheet = book.sheet_by_index(1)
 people=[]
 people_one=[]
