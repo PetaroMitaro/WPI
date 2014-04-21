@@ -18,10 +18,4 @@ for post in content:
     messageList.append(post['message'])
 #messageList now contains a list of all the messages of the post
 
-#Now we need to start using this data
-#I'm thinking make a "user" object
-#each user has a name, and a list of their responses
-#that would be a pretty easy structure to use
 #as for comparing answers, not sure yet, but I'm looking.
-#try and add to this what you can with the 'user' objects and stuff
-#I'm a good at object oriented programming but i'm shit at python :P
